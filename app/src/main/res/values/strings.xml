@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">EncuestaBase</string>
+    <string name="enviar">Enviar</string>
+    <string name="debe_responder">Debe responder la pregunta:</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="solo_te_gusta">Solo te gusta.No te interasa mucho.Trata de acercarte y hablarle asi lo/la conoces mas y talvez podes llegar a enamorarte</string>
+    <string name="le_tienes_aprecio">Estas le tienes aprecio y te parece interesante  pero no demaciado.Puedes hablar con esa persona asique se te sera mas facil empezar una relacion</string>
+    <string name="estas_enamorado">Desde que conociste a esapersona, no dejas de pensar en el/ella! Trata de acercarte mas a esapersona asi podes empezar una relacion</string>
+
+    <string-array name="preguntas">
+        <item>¿Que sientes cuando piensas en esa persona?</item>
+        <item>¿Que le has dedicado?</item>
+        <item>¿Que te sucede cuando ves a esa persona?</item>
+        <item> ¿Que pasa si te toca trabajar con esa persona?</item>
+        <item>¿Tratas de averiguar todo sobre esa persona?</item>
+        <item>¿Crees que esa persona tiene la llave a tu corazon?</item>
+    </string-array>
+    <string-array name="preguntas_pre">
+        <item>iento una explocion de sentimientos dentro mio</item>
+        <item>una sonrisa se dibuja en mi rostro</item>
+        <item>no siento nada "profundo"</item>
+        <!--segunda pregunta-->
+        <item>Miles de canciones, poemas,etc</item>
+        <item>Canciones</item>
+        <item>un par de frases</item>
+        <!--tercera pregunta-->
+        <item>me pongo muy nervioso/a y no me salen las palabras</item>
+        <item>siento que me derrito</item>
+        <item>le voy a hblar normalmente</item>
+        <!--cuarta pregunta-->
+        <item>me moriria de la verguenza, no sabria que hacer para quedar bien</item>
+        <item>trataria de acercarme a esa persona para poder empezar una amistad</item>
+        <item>no me preocuparia en lo absoluto</item>
+        <!--quinta pregunta-->
+        <item>¡Quiero saber todo!</item>
+        <item>solo lo intento</item>
+        <item>No me interesa saber de su vida</item>
+        <!--sexta pregunta-->
+        <item>si completamente</item>
+        <item>no lo se</item>
+        <item>nadie la tiene</item>
+    </string-array>
+
+
+</resources>
+
+
+
